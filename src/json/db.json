@@ -1,0 +1,79 @@
+ {
+    "videos": [
+
+   {
+       "id": "ZY3-MFxVdEw",
+       "categoria": "FRONT END",
+       "titulo": "O que faz uma desenvolvedora Front End?",
+       "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+       "descricao": "¿Qué es el Front-end? Trabajando en el área, los términos HTML, CSS y JavaScript forman parte de la rutina de los desarrolladores. Pero, ¿qué hacen, de todos modos? ¡Descúbrelo con Vanessa en este episodio! "
+   },
+   {
+       "id": "R490hggkCEA",
+       "titulo": "O que é Front End?",
+       "imagem": "https://img.youtube.com/vi/R490hggkCEA/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=R490hggkCEA",
+       "categoria": "FRONT END",
+       "descricao": "Cuando hablamos de programación, pronto surge la cuestión entre Back End y Front End. Pero, al fin y al cabo, ¿qué es cada una de estas áreas de conocimiento? 🤔Guilherme Lima y Vinícius Neves, instructores de Alura, intercambiaron algunas pegatinas y te simplificaron cuál es la función de cada área y sus principales diferencias 😃"
+       
+   },
+   {
+       "id": "LDU4BCSxPp4",
+       "titulo": "Qual é a principal diferença entre Front End e Back End?",
+       "imagem": "https://img.youtube.com/vi/LDU4BCSxPp4/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=LDU4BCSxPp4",
+       "categoria": "FRONT END",
+       "descricao":"¡Descubre los matices de las pilas tecnológicas y la diferencia fundamental entre Front End y Back End en este vídeo! ✅ Siga a Guilherme Lima y Vinícius Neves, instructores de Alura y desarrolladores experimentados, mientras exploramos los conceptos básicos de estas áreas y ofrecemos consejos esenciales para comenzar su viaje."
+   },
+   {
+       "id": "fiPfvylj6rk",
+       "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+       "imagem": "https://img.youtube.com/vi/fiPfvylj6rk/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+       "categoria": "BACK END",
+       "descricao": "Al fin y al cabo, ¿qué hacen los que trabajan con Back-end? ¿Con qué otras áreas de la tecnología termina relacionándose esta persona en el día a día y cuáles son los posibles caminos en esta carrera? 🤔¡Juliana Amoasei responde a todo esto por ti en el video! ¡Mira esto! "
+   },
+   {
+       "id": "PV9FoHvVE8k",
+       "titulo": "Kotlin, Micronaut e Back-end com Alberto Sousa",
+       "imagem": "https://img.youtube.com/vi/PV9FoHvVE8k/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=PV9FoHvVE8k",
+       "categoria": "BACK END",
+       "descricao": "Hablemos de Kotlin, el lenguaje de programación que es muy utilizado por los desarrolladores de Android.En esta ocasión @DevEficient nos ayudó a entender las ventajas de usar Kotlin y las similitudes que tiene con Java. Ven a conocer más de la capacidad de este lenguaje y cómo usarlo en el universo de la programación."
+   },
+   {
+       "id": "uyRDbGZG92E",
+       "titulo": "JavaScript para back-end",
+       "imagem": "https://img.youtube.com/vi/uyRDbGZG92E/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=uyRDbGZG92E",
+       "categoria": "BACK END",
+       "descricao": "En este episodio de Hipsters.Talks hablaremos sobre el uso de JavaScript para back-end y aprenderemos más sobre su aplicación en el desarrollo del día a día."
+   },
+   {
+       "id": "2z6f8VN_Pro",
+       "titulo": "Desmistificando Mobile- Por onde eu começo?",
+       "imagem": "https://img.youtube.com/vi/2z6f8VN_Pro/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=2z6f8VN_Pro",
+       "categoria": "MOBILE",
+       "descricao": "Hay una nueva serie en el canal 🤩La Webserie 'Desmitificando el móvil' viene a simplificar con ejemplos prácticos diversos temas relacionados con el mundo de las aplicaciones móviles y en este primer episodio empezaremos, literalmente, desde el principio, ¿por dónde empezar a estudiar sobre el mundo de las apps? Los instructores de la escuela móvil de Alura nos ayudan con esta tarea 😉"
+   },
+   {
+       "id": "fmu1LQvZhms",
+       "titulo": "Desmitificando Mobile Ep#2",
+       "imagem": "https://img.youtube.com/vi/fmu1LQvZhms/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=fmu1LQvZhms",
+       "categoria": "MOBILE",
+       "descricao":"¡Segundo episodio al aire! 🥳En el segundo episodio de la serie web 'Desmitificando el móvil' entenderemos un poco sobre lo que se hace después de estar inserto en el mundo de las apps: aprende un poco más sobre frameworks y lenguajes de programación y por qué existen diferentes para hacer una aplicación móvil. Vienen a aprender un poco en compañía de Alex Felipe, Nathalia Thiel, Giovanna Moeller y Caio Couto 😉"},
+   {
+       "id": "9V48oXZdXgQ",
+       "titulo": "Nativos: Android e iOS | Desmistificando Mobile Ep#3",
+       "imagem": "https://img.youtube.com/vi/9V48oXZdXgQ/mqdefault.jpg",
+       "url": "https://www.youtube.com/watch?v=9V48oXZdXgQ",
+       "categoria": "MOBILE",
+       "descricao":"Ahora que Helô sabe que hay muchos lenguajes de programación en el móvil y que puede elegir cuál encaja mejor con su proyecto de 'cómo hacer mi primera app' hablará con Alex Felipe, especialista en Android y Giovanna Moeller, desarrolladora de iOS para entender un poco sobre el mundo de los nativos para desarrollar apps 🤩"
+   }
+]
+
+}
+
